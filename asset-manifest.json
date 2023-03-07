@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-project-asas/static/css/main.073c9b0a.css",
+    "main.js": "/my-project-asas/static/js/main.5f92c9ba.js",
+    "static/js/787.d6cb1aba.chunk.js": "/my-project-asas/static/js/787.d6cb1aba.chunk.js",
+    "static/media/logo.svg": "/my-project-asas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-project-asas/index.html",
+    "main.073c9b0a.css.map": "/my-project-asas/static/css/main.073c9b0a.css.map",
+    "main.5f92c9ba.js.map": "/my-project-asas/static/js/main.5f92c9ba.js.map",
+    "787.d6cb1aba.chunk.js.map": "/my-project-asas/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5f92c9ba.js"
+  ]
+}
